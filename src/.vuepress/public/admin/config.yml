@@ -8,9 +8,9 @@ media_folder: "src/.vuepress/public/upload"
 public_folder: "/upload"
 
 collections:
-  - name: "doc"
-    label: "Doc"
-    folder: "docs"
+  - name: "Post"
+    label: "Post"
+    folder: "src/posts"
     create: true
     slug: "{{slug}}"
     fields:
