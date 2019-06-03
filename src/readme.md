@@ -1,4 +1,4 @@
 ---
-layout: Home
+title: Home Page
 ---
-
+Hello world
